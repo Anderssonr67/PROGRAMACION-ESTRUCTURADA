@@ -1,0 +1,28 @@
+Entrada al cine (entrada válida Y mayor de 13 años)
+entrada = True      # True = tiene entrada, False = no tiene
+edad = 15           # Edad de la persona
+
+if entrada and edad > 13:
+    print("Ejercicio 1: Puede entrar al cine")
+else:
+    print("Ejercicio 1: No puede entrar al cine")
+
+
+Descuento especial (mayor de 60 años O persona con discapacidad)
+edad_cliente = 65
+discapacitado = False  # True = persona con discapacidad
+
+if edad_cliente > 60 or discapacitado:
+    print("Ejercicio 2: Obtiene descuento especial")
+else:
+    print("Ejercicio 2: No obtiene descuento")
+
+
+Aprobación de estudiante (nota >= 7 O pasó recuperación)
+nota = 6
+recuperacion = True  # True = pasó recuperación, False = no pasó
+
+if nota >= 7 or recuperacion:
+    print("Ejercicio 3: Aprobó la materia")
+else:
+    print("Ejercicio 3: No aprobó la materia")
