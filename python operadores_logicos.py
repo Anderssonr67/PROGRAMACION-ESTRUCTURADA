@@ -1,8 +1,3 @@
-# ----------------------------------------
-# Operadores Lógicos - Ejercicios
-# Autor: Andersson Wilfredo Vargas Reyes
-# Fecha: 2025-08-13
-# ----------------------------------------
 Entrada al cine (entrada válida Y mayor de 13 años)
 entrada = True      # True = tiene entrada, False = no tiene
 edad = 15           # Edad de la persona
