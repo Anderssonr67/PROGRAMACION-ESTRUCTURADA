@@ -1,6 +1,3 @@
-// ejercicio1.js
-// Solicita metros (entero o decimal) y muestra en centímetros.
-// Uso: node ejercicio1.js
 const readline = require('readline');
 
 const rl = readline.createInterface({
